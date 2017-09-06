@@ -1,5 +1,5 @@
 module.exports = {
-	"database" : "mongodb://tanushree:tanushree2534@ds119588.mlab.com:19588/tanushree",
+	"database" : "mongodb://sourabh:sourabh@ds127892.mlab.com:27892/dbname",
 	"port" : process.env.PORT || 3000,
 	"secretKey" : "#@nu$hree2534"
 }
